@@ -1,0 +1,32 @@
+.container {
+    font-family: 'Ubuntu', serif !important;
+}
+
+.billboard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-link {
+    height: auto;
+    width: 100%;
+}
+
+img.khaxa-logo {
+    height: auto;
+    width: 23%;
+
+    opacity: 0.75;
+}
+
+img.khaxa-logo:hover {
+    opacity: 1.0;
+}
+
+.github-ribbon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+}
